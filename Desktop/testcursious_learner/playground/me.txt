@@ -1,0 +1,5 @@
+{{#user}}
+Name: Laxmi Parikh
+Skills: HTML, CSS, JS, Nodejs ,reactjs,mongodb,C#,asp.net core mvc
+Email:laxmi.parmar30@gmail.com
+{{/user}}
